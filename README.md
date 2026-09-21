@@ -10,9 +10,9 @@ An experimental and advanced Desktop GUI application built with **Python 3.9**, 
 
 ---
 
-## 🚀 Key Features
+** 🚀 Key Features: **
 
-- **Macro Dataset:** Official World Bank Historical & Forecast GDP Growth Data for Iran (1978–2025).
+- Macro Dataset:** Official World Bank Historical & Forecast GDP Growth Data for Iran (1978–2025).
 - **Technical Indicators Applied to Macro Data:**
   - **Ichimoku Kinko Hyo (5 Elements):** Tenkan-sen (9), Kijun-sen (26), Senkou Span A/B (+26 projected cloud), Chikou Span (-26).
   - **Bollinger Bands:** (20, 2σ) volatility bands.
@@ -25,10 +25,43 @@ An experimental and advanced Desktop GUI application built with **Python 3.9**, 
 
 ---
 
-## 🛠️ Installation & Setup
+ 🛠️ Installation & Setup
 
-1. **Clone the repository:**
+1. Clone the repository:
 ```bash
    git clone https://github.com/parvizt/iran-gdp-technical-analyzer.git
    cd iran-gdp-technical-analyzer
+
+
+2. Create a virtual environment (Recommended):
+   python -m venv venv
+   # On Windows:
+   venv\Scripts\activate
+   # On Linux/macOS:
+   source venv/bin/activate
+
+3. Install dependencies:
+   pip install -r requirements.txt
+   
+4. Run the Application:
+   python main.py
+Default Admin Password: admin
+   
+5. 📊 Data Source:
+Primary Source: World Bank Open Data (WDI indicator: NY.GDP.MKTP.KD.ZG - Iran, Islamic Rep. GDP growth annual %).
+Range: 1978 to 2025.
+
+6. 👨‍💻 Author & Attribution:
+Developer: Parviz Tajdari (james919)
+Brand / Organization: AiBrothersTools.ir
+Freelance Profile: kwork.com/user/parvizt
+
+7. 📄 License: 
+Distributed under the MIT License. See LICENSE for more information.
+
+
+
+
+
+
    
