@@ -27,6 +27,8 @@ An experimental and advanced Desktop GUI application built with **Python 3.9**, 
 <img width="1920" height="1021" alt="IRIF2" src="https://github.com/user-attachments/assets/f7366f81-47a5-46e1-a62a-838eb15161f6" />
 <img width="1920" height="1019" alt="IRIF_GDP2" src="https://github.com/user-attachments/assets/a0cf6182-a02e-4402-b503-f5a30df93dd1" />
 <img width="1920" height="1019" alt="IRIF_GDP1" src="https://github.com/user-attachments/assets/e01634bf-b1f4-4dc8-8911-5c10cc53fe53" />
+<img width="1867" height="906" alt="worldbank" src="https://github.com/user-attachments/assets/5340b809-9089-4a76-bf35-5f9108ff9564" />
+
 
 
 
